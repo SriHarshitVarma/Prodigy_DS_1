@@ -10,3 +10,4 @@ plt.savefig("population_bar_chart.png")
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv('population_data.csv')
+plt.savefig('population_bar_chart.png')
